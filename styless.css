@@ -170,3 +170,16 @@ body{
     list-style: none;
     text-align: center;
 }
+.image-style{
+    display: block;
+    margin:1rem auto 0.3rem auto;
+    width: 30%;
+    height: 35rem;
+}
+
+.image{
+    display: block;
+    margin:1rem auto 0.3rem auto;
+    width: 50%;
+    height: 35rem;  
+}
